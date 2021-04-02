@@ -1,0 +1,3 @@
+This is a webscrapping code that is designed to use a practice book rating site in order to find the one star rated books on the first few pages. It takes a url as an input for the website, and iterates through the different book pages of that website to produce an output list of all the one star rated books on the first fives pages. 
+
+I did not run into any issues that needed debugging. 
